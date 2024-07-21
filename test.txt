@@ -10,6 +10,6 @@ public class lol
 
     public static async Task Main()
     {
-		    Console.WriteLine("Loadstring and Httpget support?!");
+		Console.WriteLine("Loadstring and Httpget support?!");
     }
 }
